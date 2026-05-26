@@ -1,0 +1,114 @@
+body {font:	13px/1.2 Verdana, Arial, Helvetica, sans-serif;	background: #0066CC; padding:0; margin:16px 5px 16px 5px;}
+.topBanner {background: #ffffff; width:740px; padding:0; margin-right:auto; margin-left:auto;}
+.content {background: #ffffff; width:740px; padding:8px; margin-left:auto; margin-right:auto;}
+.crumbBar {background: #ebe8e0; padding:4px 20px 4px 20px; font-size:11px; text-align:center;}
+.personalizationBarCenter {background: #F6F3ED; padding:4px 20px 4px 20px; text-align:center; border-top:1px solid #96b746;}
+.personalizationBarRight {background: #F6F3ED; padding:4px 20px 4px 20px; text-align:right; border-top:1px solid #96b746;}
+.homePageWelcome {background: #f7f3e7; padding:20px 20px 20px 20px;}
+.centerContent {background: #ffffff; padding:10px 20px 10px 20px;}
+.featureBoxLines {border-left:1px solid #96b746; text-align:center; font-weight:bold; width:25%;}
+.featureBoxNoLines {text-align:center; font-weight:bold; width:25%;}
+
+.hpCenter {background: #ffffff; padding:0; margin:0; border-right:2px solid #dddddd;}
+.hpCenterTable {padding-left:20px;}
+.popUpContent {background: #ffffff; width:96%; margin:0 4px 4px 4px;}
+.footerWrap {border-right:2px solid #dddddd; margin:0; padding:0;}
+.formsContent {padding-left:40px;}
+
+/* Begin Color Bar Descriptors */
+.colorBarHeader {font-size:13px; font-weight:bold; color: #cc0000; margin-bottom:6px; margin-left:8px;}
+.colorBarBullet {font-size:12px; margin-left:24px; margin-right:12px;}
+.clientTitle {font:normal italic bold 14px Verdana, Arial, Helvetica, sans-serif; color:#cc0000; text-align:left; margin-bottom:8px;}
+.cspTease {font-size:12px; text-indent:92px;}
+.black14 {font-size:14px; font-weight:bold; color:black;}
+
+/* Begin Link operatives */
+a:link {color: #417aab; text-decoration: underline; font-weight: bold}
+a:visited {color: #417aab; text-decoration: underline; font-weight: bold}
+a:hover {color: #d29950; text-decoration: underline; font-weight: bold}
+a:active {color: #417aab; text-decoration: underline; font-weight: bold}
+/* End Link operatives */
+
+/* Begin Menu Bar */
+.tabDisplay {border-top:2px solid #3973a5; border-bottom:3px solid #3973a5; margin:0; padding:0; background-color:#3973a5; text-align:center;}
+#menubar a:link {font:normal normal bold 12px Arial, Helvetica, sans-serif; color:black; text-decoration:none;
+	background-color:#edefe9; padding:2px 12px 2px 12px; margin:0;}
+	
+#menubar a:visited {font:normal normal bold 12px Arial, Helvetica, sans-serif; color:black; text-decoration:none;
+	background-color: #edefe9;	padding:2px 12px 2px 12px; margin:0;}	
+	
+#menubar a:hover {font:normal normal bold 12px Arial, Helvetica, sans-serif; color:white; text-decoration:none;
+	background-color: #3973a5;	padding:2px 12px 2px 12px; margin:0;}
+/* End Menu Bar */
+
+	
+ol {margin-right:10px;}
+ul {margin-right:10px;}
+li {margin-bottom:10px;}
+
+p,h1,h2 {margin:20px 8px 20px 8px;}
+		
+h1 {font-size:17px; color: #333333; text-align:center; margin: 10px 0 0 10px;}
+h2 {font-size:14px; font-weight:bold; color: navy; text-align:left; margin: 4px 0 8px 10px;}
+h3 {font-size:14px; color:navy; text-align:left; font-family: Arial, Helvetica, sans-serif; margin: 0 0 0 0;}
+h4 {font-size:14px; color:#00008B; text-align:left; font-family: Verdana, Arial, Helvetica, sans-serif; margin:0 0 0 0;}
+h5 {font-size:14px; color:navy; text-align:center; font-family: Verdana, Arial, Helvetica, sans-serif; margin: 0 0 0 0;}
+h6 {font-size:14px; color:black; text-align:left; font-family: Arial, Helvetica, sans-serif; margin:0; padding-top:12px; padding-left:14px; font-weight:normal;}
+		
+.hptableCell {border:1px solid #f7f3e7; font-size:12px; font-weight:bold; text-align:left; padding:4px; background-color:white;}
+
+.hptableCell a:link {text-decoration:underline; color:black;}
+.hptableCell a:visited {text-decoration:underline; color:black;}
+.hptableCell a:hover {text-decoration: none; background-color: #f7f3e7;}
+
+.headerLine {border-top: 2px solid #dddddd;}
+.copyLine {border-bottom: 1px solid #eeeeee; font-size:10px; margin:0 10px 0 10px;}
+.footerLinks {font:normal normal normal 10px Verdana, Arial, Helvetica, sans-serif; color:#999999;text-align:center; padding-top:4px;}
+.footerLineBottom {border-top: 1px solid #eeeeee; margin-top:4px;}
+.footerCopyRight {font:normal normal normal 11px Verdana, Arial, Helvetica, sans-serif; color:#999999; text-align:center; background-color:#ebe8e0; padding-top:8px; border-top:4px solid #3973a5; margin-top:14px;}
+
+.text10left {font:normal normal normal 10px Verdana, Arial, Helvetica, sans-serif; text-align:left; margin:0 10px 0 10px;}
+.text10center {font:normal normal normal 10px Verdana, Arial, Helvetica, sans-serif; text-align:center; margin:0 10px 0 10px;}
+.text10right {font:normal normal normal 10px Verdana, Arial, Helvetica, sans-serif; text-align:right; margin:0 10px 0 10px;}
+.text11left {font:normal normal normal 11px Verdana, Arial, Helvetica, sans-serif; text-align:left; margin:0 10px 0 10px;}
+.text11center {font:normal normal normal 11px Verdana, Arial, Helvetica, sans-serif; text-align:center; margin:0 10px 0 10px;}
+.text11right {font:normal normal normal 11px Verdana, Arial, Helvetica, sans-serif; text-align:right; margin:0 10px 0 10px;}
+.text12left {font:normal normal normal 12px Verdana, Arial, Helvetica, sans-serif; text-align:left; margin:0 10px 0 10px;}
+.text12center {font:normal normal normal 12px Verdana, Arial, Helvetica, sans-serif; text-align:center; margin:0 10px 0 10px;}
+.text12right {font:normal normal normal 12px Verdana, Arial, Helvetica, sans-serif; text-align:right; margin:0 10px 0 10px;}
+.text13left {font:normal normal normal 13px Verdana, Arial, Helvetica, sans-serif; text-align:left; margin:0 10px 0 10px;}
+.text13center {font:normal normal normal 13px Verdana, Arial, Helvetica, sans-serif; text-align:center; margin:0 10px 0 10px;}
+.text13right {font:normal normal normal 13px Verdana, Arial, Helvetica, sans-serif; text-align:right; margin:0 10px 0 10px;}
+.text14left {font:normal normal normal 14px Verdana, Arial, Helvetica, sans-serif; text-align:left; margin:0 10px 0 10px;}
+.text14center {font:normal normal normal 14px Verdana, Arial, Helvetica, sans-serif; text-align:center; margin:0 10px 0 10px;}
+.text14right {font:normal normal normal 14px Verdana, Arial, Helvetica, sans-serif; text-align:right; margin:0 10px 0 10px;}
+
+.quoteTitle {font:normal italic bold 14px Verdana, Arial, Helvetica, sans-serif; color:#cc0000; text-align:left; margin-bottom:8px; padding-left:8px;}
+.quoteText {font:normal normal normal 12px Verdana, Arial, Helvetica, sans-serif; color:#666666; text-align:left; padding-left:8px;}
+.quoteBy {font:normal normal normal 11px Verdana, Arial, Helvetica, sans-serif; color:#666666; text-align:right; padding-right:16px;}
+.quoteBorder{border:1px solid #dddddd; padding:6px;}
+
+.topLinks {font:normal normal normal 11px Verdana, Arial, Helvetica, sans-serif; text-align:left; padding-left:112px;}
+.checkbox {font:normal normal normal 12px Verdana, Arial, Helvetica, sans-serif; text-align:left;
+	background-image: url(http://www.growthresourcesofohio.com/graphics/misc/checkbox.gif); background-repeat: no-repeat; 
+	margin:10px 0 6px 26px; padding-left:20px;}
+.maroon {color:maroon;}
+
+.footerWidth {width:98%; text-align:center;}
+table#articlesBorder{border:1px solid #dddddd; padding:6px;}
+
+/* Subscriber functions */
+.subscribeTitle {font:normal normal bold 12px Verdana, Arial, Helvetica, sans-serif; color:#cc0000; text-align:center; padding-bottom:4px; padding-top:4px;}
+input#subscribe	{font:normal normal normal 11px Arial, Helvetica, sans-serif; color:black; text-align:center; background-color:#f5f5f5;
+	border:3px double gray; padding:1px; margin-top:10px;}
+.subscriberLineBottom {border-bottom: 3px solid #3366FF; margin-top:10px;}
+
+
+/* Flash layer positioning */
+.brillianceLayer {position: relative; text-align: left;}
+.brillianceMovie {position: absolute;	background-color: transparent; text-align: left; margin: -200px 0 0 -450px; z-index: 1;}
+
+
+/* Miscellaneous Attributes */
+.audioMessageText9 {font:normal normal normal 9px Verdana, Arial, Helvetica, sans-serif; text-align:left; margin:0;}
+.audioMessageText11 {font:normal normal normal 11px Verdana, Arial, Helvetica, sans-serif; text-align:left; margin:0 10px 0 10px; padding-left:10px;}
